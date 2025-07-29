@@ -1,31 +1,47 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Doanda Dresta Rahma  
+**NRP**: 5025201049  
+**Judul TA**: Pengembangan Game Mobile Android sebagai Edukasi Huruf Hijaiyah Menggunakan LibGDX dengan Bahasa Kotlin  
+**Dosen Pembimbing**: Siska Arifiani, S.Kom., M.Kom.   
+**Dosen Ko-pembimbing**: Imam Kuswardayan, S.Kom., MT 
 
 ---
 
 ## 📺 Demo Aplikasi  
-Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://i.ytimg.com/vi/SkscpHuWhwk/maxresdefault.jpg)](https://www.youtube.com/watch?v=SkscpHuWhwk)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
-
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
-### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+### 📌 Prasyarat  
+- Software:
+  - Android Studio | 2023.1.1+
+- Daftar dependensi:
+  - LibKTX 1.12.1-rc2+:
+    - ktx-actors
+    - ktx-app
+    - ktx-assets-async
+    - ktx-async
+    - ktx-freetype
+    - ktx-graphics
+    - ktx-log
+    - ktx-math
+    - ktx-preferences
+    - ktx-scene2d
+    - ktx-style
+    - ktx-vis-style
+    - ktx-vis
+  - Kotlinx Coroutines Core 1.9.0
+  - Kotlin Standard Library 1.9.22
+  - FreeTypeSkin by Raeleus 2.0.0
+  - Shape Drawer by Earlygrey 2.6.0
+  - Tensorflow Core Platform 0.3.3
+  - Tensorflow Lite Support 0.4.4
+  - Tensorflow Lite Metadata 0.1.0
 
 ### Langkah-langkah  
 1. **Clone Repository**  
@@ -50,7 +66,7 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ---
 
-## 📚 Dokumentasi Tambahan
+## 📚 Dokumentasi Proyek
 
 - [![Dokumentasi API]](docs/api.md)
 - [![Diagram Arsitektur]](docs/architecture.png)
