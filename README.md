@@ -58,7 +58,7 @@ Game edukasi yang dirancang untuk membantu belajar huruf hijaiyah dengan cara ya
 
 1. **Unduh APK**  
    - Kunjungi tab [**Releases**](https://github.com/Informatics-ITS/ta-doandadr/releases)  
-   - Unduh file `.apk` terbaru, misalnya: `PetualanganHijaiyah-v1.0.1beta-release.apk`
+   - Unduh file `.apk` terbaru, misalnya: `PetualanganHijaiyah-v1.0.1.apk`
 
 2. **Pindahkan ke HP Android**  
    - Gunakan kabel USB, Google Drive, atau metode lain
